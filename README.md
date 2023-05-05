@@ -8,10 +8,10 @@ No Machine Learning Framework was used in the making of this project as Scikit-l
 ## Requirements
 To run the project, you will need the following Python packages:
 
--NumPy
--Pandas
--Matplotlib
--Scikit-learn (only to load the Boston Housing Dataset)
+.NumPy
+.Pandas
+.Matplotlib
+.Scikit-learn (only to load the Boston Housing Dataset)
 You can install these packages using pip, conda, or any other package manager.
 
 ## Files
